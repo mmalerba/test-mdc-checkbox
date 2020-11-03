@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-mdc-checkbox"
+    }
+  },
+  "defaultProject": "test-mdc-checkbox",
+  "cli": {
+    "analytics": false
+  }
 }
